@@ -1,5 +1,7 @@
 # Economic Data Analysis: Global Digital Divide & Hypothesis Testing 🌍📊
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lucasFavieri/marketing-analytics-ab-testing/blob/main/ab_testing_marketing_analysis.ipynb)
+
 This project was developed during a **Mini-Hackathon** at Facultet (Porto). Using the **Quality of Government (QoG) Standard Dataset (2020)**, I performed inferential statistical analysis to investigate the socio-economic and institutional drivers behind global internet penetration.
 
 ## 🎯 Project Overview
